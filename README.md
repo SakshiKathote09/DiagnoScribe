@@ -1,4 +1,4 @@
-# CliniScribe Documentation System
+# DiagnoScribe Documentation System
 
 A system to generate OASIS-E1 compliant documentation from patient-clinician transcripts, with audio transcription, structured output, diarization, ordered execution, and a dynamic UI.
 
